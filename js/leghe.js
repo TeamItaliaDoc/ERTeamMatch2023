@@ -1,28 +1,12 @@
 
 //EIRC 960
 matchs['EIRC-960-1'] = {"id":"1418127", "lega":"EIRC-960", "giornata":1, "data":"18/09/2022", "daCaricare" : true};
-matchs['EIRC-960-2'] = {"id":"", "lega":"EIRC-960", "giornata":2, "data":"16/10/2022", "daCaricare" : true};
+matchs['EIRC-960-2'] = {"id":"1425731", "lega":"EIRC-960", "giornata":2, "data":"16/10/2022", "daCaricare" : true};
 matchs['EIRC-960-3'] = {"id":"", "lega":"EIRC-960", "giornata":3, "data":"18/12/2022", "daCaricare" : true};
 matchs['EIRC-960-4'] = {"id":"", "lega":"EIRC-960", "giornata":4, "data":"15/01/2022", "daCaricare" : true};
 matchs['EIRC-960-5'] = {"id":"", "lega":"EIRC-960", "giornata":5, "data":"19/02/2022", "daCaricare" : true};
 matchs['EIRC-960-6'] = {"id":"", "lega":"EIRC-960", "giornata":6, "data":"19/03/2022", "daCaricare" : true};
 matchs['EIRC-960-7'] = {"id":"", "lega":"EIRC-960", "giornata":7, "data":"16/04/2022", "daCaricare" : true};
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 //CIS - Qualificazioni
 matchs['CIS-Q-1'] = {"id":"", "lega":"CIS-Q", "giornata":1, "data":"10/01/2022", "daCaricare" : true};
