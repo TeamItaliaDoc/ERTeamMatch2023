@@ -33,9 +33,9 @@ matchs['EU-8'] = {"id":"", "lega":"EU", "giornata":8, "data":"//2022", "daCarica
 matchs['EU-9'] = {"id":"", "lega":"EU", "giornata":9, "data":"//2022", "daCaricare" : true};
 
 //EIRC-KN
-matchs['EIRC-KN-1'] = {"id":"", "lega":"EIRC-KN", "giornata":"Sedicesimi", "data":"25/01/2022", "daCaricare" : true};
-matchs['EIRC-KN-2'] = {"id":"", "lega":"EIRC-KN", "giornata":"Ottavi", "data":"15/02/2022", "daCaricare" : true};
-matchs['EIRC-KN-3'] = {"id":"", "lega":"EIRC-KN", "giornata":"Quarti", "data":"05/06/2022", "daCaricare" : true};  
+matchs['EIRC-KN-1'] = {"id":"1433219", "lega":"EIRC-KN", "giornata":"Sedicesimi", "data":"13/11/2022", "daCaricare" : true};
+matchs['EIRC-KN-2'] = {"id":"", "lega":"EIRC-KN", "giornata":"Ottavi", "data":"//2022", "daCaricare" : true};
+matchs['EIRC-KN-3'] = {"id":"", "lega":"EIRC-KN", "giornata":"Quarti", "data":"//2022", "daCaricare" : true};  
 matchs['EIRC-KN-5'] = {"id":"", "lega":"EIRC-KN", "giornata":5, "data":"//2022", "daCaricare" : true};
 
 //EIRC-1400
