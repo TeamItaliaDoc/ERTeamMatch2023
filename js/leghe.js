@@ -53,9 +53,11 @@ matchs['EIRC-1400-8'] = {"id":"", "lega":"EIRC-1400", "giornata":8, "data":"//20
 matchs['EIRC-1400-9'] = {"id":"", "lega":"EIRC-1400", "giornata":9, "data":"//2022", "daCaricare" : true};
 
 //EIRC-1700
-matchs['EIRC-1700-1'] = {"id":"", "lega":"EIRC-1700", "giornata":1, "data":"10/04/2022", "daCaricare" : true};
-matchs['EIRC-1700-2'] = {"id":"", "lega":"EIRC-1700", "giornata":2, "data":"03/07/2022", "daCaricare" : true};
-matchs['EIRC-1700-3'] = {"id":"", "lega":"EIRC-1700", "giornata":3, "data":"//2022", "daCaricare" : true};
+matchs['EIRC-1700-1'] = {"id":"0", "lega":"EIRC-1700", "giornata":"Q1", "data":"10/04/2022", "daCaricare" : true,
+"avversarioName":"","risultato":"Bye", "risultatoStyle" :"color:green;font-weight:bold", "giocatori":"", "score":"", "url" : ""}; 
+
+matchs['EIRC-1700-2'] = {"id":"1437317", "lega":"EIRC-1700", "giornata":"Q2", "data":"27/11/2022", "daCaricare" : true};
+matchs['EIRC-1700-3'] = {"id":"", "lega":"EIRC-1700", "giornata":"Q3", "data":"//2022", "daCaricare" : true};
 matchs['EIRC-1700-4'] = {"id":"", "lega":"EIRC-1700", "giornata":4, "data":"//2022", "daCaricare" : true};
 matchs['EIRC-1700-5'] = {"id":"", "lega":"EIRC-1700", "giornata":5, "data":"//2022", "daCaricare" : true};
 matchs['EIRC-1700-6'] = {"id":"", "lega":"EIRC-1700", "giornata":6, "data":"//2022", "daCaricare" : true};
