@@ -65,16 +65,14 @@ matchs['EIRC-1700-7'] = {"id":"", "lega":"EIRC-1700", "giornata":7, "data":"//20
 matchs['EIRC-1700-8'] = {"id":"", "lega":"EIRC-1700", "giornata":8, "data":"//2022", "daCaricare" : true};
 matchs['EIRC-1700-9'] = {"id":"", "lega":"EIRC-1700", "giornata":9, "data":"//2022", "daCaricare" : true};
 
-//EIRC-OPEN
-matchs['EIRC-OPEN-1'] = {"id":"", "lega":"EIRC-OPEN", "giornata":1, "data":"28/11/2021", "daCaricare" : true};
-matchs['EIRC-OPEN-2'] = {"id":"", "lega":"EIRC-OPEN", "giornata":2, "data":"02/01/2022", "daCaricare" : true};
-matchs['EIRC-OPEN-3'] = {"id":"", "lega":"EIRC-OPEN", "giornata":3, "data":"06/02/2022", "daCaricare" : true};
-matchs['EIRC-OPEN-4'] = {"id":"", "lega":"EIRC-OPEN", "giornata":4, "data":"13/03/2022", "daCaricare" : true};
-matchs['EIRC-OPEN-5'] = {"id":"", "lega":"EIRC-OPEN", "giornata":5, "data":"21/04/2022", "daCaricare" : true};
-matchs['EIRC-OPEN-6'] = {"id":"", "lega":"EIRC-OPEN", "giornata":6, "data":"21/05/2022", "daCaricare" : true};
-matchs['EIRC-OPEN-7'] = {"id":"", "lega":"EIRC-OPEN", "giornata":7, "data":"26/06/2022", "daCaricare" : true};
-matchs['EIRC-OPEN-8'] = {"id":"", "lega":"EIRC-OPEN", "giornata":8, "data":"//2022", "daCaricare" : true};
-matchs['EIRC-OPEN-9'] = {"id":"", "lega":"EIRC-OPEN", "giornata":9, "data":"//2022", "daCaricare" : true};
+//EIRC-MASTER
+matchs['EIRC-MASTER-1'] = {"id":"1439071", "lega":"EIRC-MASTER", "giornata":1, "data":"04/12/2022", "daCaricare" : true};
+matchs['EIRC-MASTER-2'] = {"id":"", "lega":"EIRC-MASTER", "giornata":2, "data":"04/01/2023", "daCaricare" : true};
+matchs['EIRC-MASTER-3'] = {"id":"", "lega":"EIRC-MASTER", "giornata":3, "data":"08/02/2023", "daCaricare" : true};
+matchs['EIRC-MASTER-4'] = {"id":"", "lega":"EIRC-MASTER", "giornata":4, "data":"12/03/2023", "daCaricare" : true};
+matchs['EIRC-MASTER-5'] = {"id":"", "lega":"EIRC-MASTER", "giornata":5, "data":"19/04/2023", "daCaricare" : true};
+matchs['EIRC-MASTER-6'] = {"id":"", "lega":"EIRC-MASTER", "giornata":6, "data":"23/05/2023", "daCaricare" : true};
+matchs['EIRC-MASTER-7'] = {"id":"", "lega":"EIRC-MASTER", "giornata":7, "data":"02/07/2023", "daCaricare" : true};
 
 
 //EIRC-4
