@@ -4,7 +4,7 @@ matchs['EIRC-960-1'] = {"id":"1418127", "lega":"EIRC-960", "giornata":1, "data":
 matchs['EIRC-960-2'] = {"id":"1425731", "lega":"EIRC-960", "giornata":2, "data":"16/10/2022", "daCaricare" : true};
 matchs['EIRC-960-3'] = {"id":"1435569", "lega":"EIRC-960", "giornata":3, "data":"20/11/2022", "daCaricare" : true};
 matchs['EIRC-960-4'] = {"id":"1443482", "lega":"EIRC-960", "giornata":4, "data":"18/12/2022", "daCaricare" : true};
-matchs['EIRC-960-5'] = {"id":"", "lega":"EIRC-960", "giornata":5, "data":"15/01/2022", "daCaricare" : true};
+matchs['EIRC-960-5'] = {"id":"1452171", "lega":"EIRC-960", "giornata":5, "data":"15/01/2022", "daCaricare" : true};
 matchs['EIRC-960-6'] = {"id":"", "lega":"EIRC-960", "giornata":6, "data":"19/02/2022", "daCaricare" : true};
 matchs['EIRC-960-7'] = {"id":"", "lega":"EIRC-960", "giornata":7, "data":"19/03/2022", "daCaricare" : true};
 matchs['EIRC-960-8'] = {"id":"", "lega":"EIRC-960", "giornata":8, "data":"16/04/2022", "daCaricare" : true};
@@ -74,12 +74,19 @@ matchs['EIRC-MASTER-5'] = {"id":"", "lega":"EIRC-MASTER", "giornata":5, "data":"
 matchs['EIRC-MASTER-6'] = {"id":"", "lega":"EIRC-MASTER", "giornata":6, "data":"23/05/2023", "daCaricare" : true};
 matchs['EIRC-MASTER-7'] = {"id":"", "lega":"EIRC-MASTER", "giornata":7, "data":"02/07/2023", "daCaricare" : true};
 
+//EIRC-GRAND-PRIX
+matchs['EIRC-GRAND-PRIX-1'] = {"id":"1454321", "lega":"EIRC-GRAND-PRIX", "giornata":'Q1', "data":"22/01/2023", "daCaricare" : true};
+matchs['EIRC-GRAND-PRIX-2'] = {"id":"", "lega":"EIRC-GRAND-PRIX", "giornata":'Q2', "data":"26/03/2023", "daCaricare" : true};
+matchs['EIRC-GRAND-PRIX-3'] = {"id":"", "lega":"EIRC-GRAND-PRIX", "giornata":'Q3', "data":"26/05/2023", "daCaricare" : true};
+matchs['EIRC-GRAND-PRIX-4'] = {"id":"", "lega":"EIRC-GRAND-PRIX", "giornata":'F1', "data":"//2023", "daCaricare" : true};
+matchs['EIRC-GRAND-PRIX-5'] = {"id":"", "lega":"EIRC-GRAND-PRIX", "giornata":'F2', "data":"//2023", "daCaricare" : true};
+matchs['EIRC-GRAND-PRIX-6'] = {"id":"", "lega":"EIRC-GRAND-PRIX", "giornata":'F3', "data":"//2023", "daCaricare" : true};
+
 
 //EIRC-4
 matchs['EIRC-4-1'] = {"id":"", "lega":"EIRC-4", "giornata":'R1a', "data":"03/04/2022", "daCaricare" : true};
-matchs['EIRC-4-2'] = {"id":"0", "lega":"EIRC-4", "giornata":'R1b', "data":"01/05/2022", "daCaricare" : false,
- "avversarioName":"Rot-Weiß-Hessen","risultato":"Vinto forfait", "risultatoStyle" :"color:green;font-weight:bold", "giocatori":"", "score":"", "url" : ""};  //Vinto forfait
-matchs['EIRC-4-3'] = {"id":"", "lega":"EIRC-4", "giornata":'R1c', "data":"29/05/2022", "daCaricare" : true};
+matchs['EIRC-4-2'] = {"id":"", "lega":"EIRC-4", "giornata":'R1b', "data":"01/05/2022", "daCaricare" : true};
+ atchs['EIRC-4-3'] = {"id":"", "lega":"EIRC-4", "giornata":'R1c', "data":"29/05/2022", "daCaricare" : true};
 matchs['EIRC-4-4'] = {"id":"", "lega":"EIRC-4", "giornata":'R1d', "data":"26/06/2022", "daCaricare" : true};
 matchs['EIRC-4-5'] = {"id":"", "lega":"EIRC-4", "giornata":'R2a', "data":"26/07/2022", "daCaricare" : true};
 matchs['EIRC-4-6'] = {"id":"", "lega":"EIRC-4", "giornata":'R2b', "data":"04/09/2022", "daCaricare" : true};

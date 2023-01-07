@@ -177,7 +177,7 @@ function getTeamAvatar(url)
 {
     //Eseguo funzione per ricercare un avatar
     $.getJSON(url,function(data){
-            avversari[data.name].avatar = data.icon;    
+        avversari[data.name].avatar = data.icon;    
             
         //Se non ho caricato tuti gli elo  esengo ancora la funzione
         for (var name in avversari) {
@@ -195,6 +195,10 @@ function getTeamAvatar(url)
 
     }).error(function(jqXhr, textStatus, error) {
         //è andato in errore ricarico i dati
+        console.log('getTeamAvatar ERRORE: ' + this.url);
+        console.log('getTeamAvatar ERRORE: ' + this.url);
+        console.log('getTeamAvatar ERRORE: ' + this.url);
+        console.log('getTeamAvatar ERRORE: ' + this.url);
         getTeamAvatar(this.url);    
     });
 
@@ -210,7 +214,14 @@ function stampaTeams() {
                 }
                 var avatar = '';
                 if (matchs[index].avversarioName != '') {
-                    avatar = '<img class="classifica-avatar" src="' + avversari[matchs[index].avversarioName].avatar + '"><a style="color:black;text-decoration: none;font-weight: normal;" href="https://www.chess.com/club/' + matchs[index].avversarioName.replace(' ', '-') + '" target=”_blank”> ' +   matchs[index].avversarioName + '</a>';
+                    try {
+                        avatar = '<img class="classifica-avatar" src="' + avversari[matchs[index].avversarioName].avatar + '"><a style="color:black;text-decoration: none;font-weight: normal;" href="https://www.chess.com/club/' + matchs[index].avversarioName.replace(' ', '-') + '" target=”_blank”> ' +   matchs[index].avversarioName + '</a>';
+                    } catch(err) {
+                        console.log('AVATAR NON PRESENTE: ' + index + ' - ' + matchs[index].avversarioName);     
+                        console.log('AVATAR NON PRESENTE: ' + index + ' - ' + matchs[index].avversarioName);     
+                        console.log('AVATAR NON PRESENTE: ' + index + ' - ' + matchs[index].avversarioName);     
+                        console.log('AVATAR NON PRESENTE: ' + index + ' - ' + matchs[index].avversarioName);     
+                    }
                 }
                  var stRiga = '<tr class="classifica-giocatori">' +
                 '<td class="classifica-col1">' + matchs[index].giornata + '</td>  ' +
