@@ -5,7 +5,9 @@ matchs['EIRC-960-2'] = {"id":"1425731", "lega":"EIRC-960", "giornata":2, "data":
 matchs['EIRC-960-3'] = {"id":"1435569", "lega":"EIRC-960", "giornata":3, "data":"20/11/2022", "daCaricare" : true};
 matchs['EIRC-960-4'] = {"id":"1443482", "lega":"EIRC-960", "giornata":4, "data":"18/12/2022", "daCaricare" : true};
 matchs['EIRC-960-5'] = {"id":"1452171", "lega":"EIRC-960", "giornata":5, "data":"15/01/2022", "daCaricare" : true};
-matchs['EIRC-960-6'] = {"id":"1462031", "lega":"EIRC-960", "giornata":6, "data":"19/02/2022", "daCaricare" : true};
+matchs['EIRC-960-6'] = {"id":"0", "lega":"EIRC-960", "giornata":6, "data":"19/02/2022", "daCaricare" : true,
+"avversarioName":"","risultato":"Vinto forfait", "risultatoStyle" :"color:green;font-weight:bold", "giocatori":"", "score":"", "url" : ""}; 
+
 matchs['EIRC-960-7'] = {"id":"", "lega":"EIRC-960", "giornata":7, "data":"19/03/2022", "daCaricare" : true};
 matchs['EIRC-960-8'] = {"id":"", "lega":"EIRC-960", "giornata":8, "data":"16/04/2022", "daCaricare" : true};
 
