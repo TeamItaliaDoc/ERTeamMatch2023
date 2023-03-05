@@ -8,12 +8,12 @@ matchs['EIRC-960-5'] = {"id":"1452171", "lega":"EIRC-960", "giornata":5, "data":
 matchs['EIRC-960-6'] = {"id":"0", "lega":"EIRC-960", "giornata":6, "data":"19/02/2022", "daCaricare" : true,
 "avversarioName":"","risultato":"Vinto forfait", "risultatoStyle" :"color:green;font-weight:bold", "giocatori":"", "score":"", "url" : ""}; 
 
-matchs['EIRC-960-7'] = {"id":"", "lega":"EIRC-960", "giornata":7, "data":"19/03/2022", "daCaricare" : true};
+matchs['EIRC-960-7'] = {"id":"1470637", "lega":"EIRC-960", "giornata":7, "data":"19/03/2022", "daCaricare" : true};
 matchs['EIRC-960-8'] = {"id":"", "lega":"EIRC-960", "giornata":8, "data":"16/04/2022", "daCaricare" : true};
 
 //CIS - Qualificazioni
 matchs['CIS-Q-1'] = {"id":"1463013", "lega":"CIS-Q", "giornata":1, "data":"20/02/2024", "daCaricare" : true};
-matchs['CIS-Q-2'] = {"id":"", "lega":"CIS-Q", "giornata":2, "data":"/0/2024", "daCaricare" : true};
+matchs['CIS-Q-2'] = {"id":"1470049", "lega":"CIS-Q", "giornata":2, "data":"13/03/2024", "daCaricare" : true};
 matchs['CIS-Q-3'] = {"id":"", "lega":"CIS-Q", "giornata":3, "data":"/0/2024", "daCaricare" : true};
 matchs['CIS-Q-4'] = {"id":"", "lega":"CIS-Q", "giornata":4, "data":"/0/2024", "daCaricare" : true};
 
@@ -70,7 +70,7 @@ matchs['EIRC-MASTER-1'] = {"id":"1439071", "lega":"EIRC-MASTER", "giornata":1, "
 matchs['EIRC-MASTER-2'] = {"id":"0", "lega":"EIRC-MASTER", "giornata":2, "data":"04/01/2023", "daCaricare" : true,
 "avversarioName":"","risultato":"Bye", "risultatoStyle" :"color:green;font-weight:bold", "giocatori":"", "score":"", "url" : ""}; 
 matchs['EIRC-MASTER-3'] = {"id":"1460167", "lega":"EIRC-MASTER", "giornata":3, "data":"12/02/2023", "daCaricare" : true};
-matchs['EIRC-MASTER-4'] = {"id":"", "lega":"EIRC-MASTER", "giornata":4, "data":"12/03/2023", "daCaricare" : true};
+matchs['EIRC-MASTER-4'] = {"id":"1470829", "lega":"EIRC-MASTER", "giornata":4, "data":"12/03/2023", "daCaricare" : true};
 matchs['EIRC-MASTER-5'] = {"id":"", "lega":"EIRC-MASTER", "giornata":5, "data":"19/04/2023", "daCaricare" : true};
 matchs['EIRC-MASTER-6'] = {"id":"", "lega":"EIRC-MASTER", "giornata":6, "data":"23/05/2023", "daCaricare" : true};
 matchs['EIRC-MASTER-7'] = {"id":"", "lega":"EIRC-MASTER", "giornata":7, "data":"02/07/2023", "daCaricare" : true};
