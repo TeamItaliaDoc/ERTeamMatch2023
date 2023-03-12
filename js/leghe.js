@@ -44,7 +44,7 @@ matchs['EIRC-KN-5'] = {"id":"", "lega":"EIRC-KN", "giornata":5, "data":"//2022",
 //EIRC-1400
 matchs['EIRC-1400-1'] = {"id":"1456199", "lega":"EIRC-1400", "giornata":1, "data":"29/01/2023", "daCaricare" : true};
 matchs['EIRC-1400-2'] = {"id":"1464254", "lega":"EIRC-1400", "giornata":2, "data":"26/02/2023", "daCaricare" : true};
-matchs['EIRC-1400-3'] = {"id":"", "lega":"EIRC-1400", "giornata":3, "data":"/0/2023", "daCaricare" : true};
+matchs['EIRC-1400-3'] = {"id":"1472707", "lega":"EIRC-1400", "giornata":3, "data":"26/03/2023", "daCaricare" : true};
 matchs['EIRC-1400-4'] = {"id":"", "lega":"EIRC-1400", "giornata":4, "data":"/0/2023", "daCaricare" : true};
 matchs['EIRC-1400-5'] = {"id":"", "lega":"EIRC-1400", "giornata":5, "data":"/0/2023", "daCaricare" : true};
 matchs['EIRC-1400-6'] = {"id":"", "lega":"EIRC-1400", "giornata":6, "data":"/0/2023", "daCaricare" : true};
@@ -77,8 +77,8 @@ matchs['EIRC-MASTER-7'] = {"id":"", "lega":"EIRC-MASTER", "giornata":7, "data":"
 
 //EIRC-GRAND-PRIX
 matchs['EIRC-GRAND-PRIX-1'] = {"id":"1454321", "lega":"EIRC-GRAND-PRIX", "giornata":'Q1', "data":"22/01/2023", "daCaricare" : true};
-matchs['EIRC-GRAND-PRIX-2'] = {"id":"1464855", "lega":"EIRC-GRAND-PRIX", "giornata":'Q2', "data":"26/03/2023", "daCaricare" : true};
-matchs['EIRC-GRAND-PRIX-3'] = {"id":"", "lega":"EIRC-GRAND-PRIX", "giornata":'Q3', "data":"26/05/2023", "daCaricare" : true};
+matchs['EIRC-GRAND-PRIX-2'] = {"id":"1464855", "lega":"EIRC-GRAND-PRIX", "giornata":'Q2', "data":"26/02/2023", "daCaricare" : true};
+matchs['EIRC-GRAND-PRIX-3'] = {"id":"1472725", "lega":"EIRC-GRAND-PRIX", "giornata":'Q3', "data":"25/03/2023", "daCaricare" : true};
 matchs['EIRC-GRAND-PRIX-4'] = {"id":"", "lega":"EIRC-GRAND-PRIX", "giornata":'F1', "data":"//2023", "daCaricare" : true};
 matchs['EIRC-GRAND-PRIX-5'] = {"id":"", "lega":"EIRC-GRAND-PRIX", "giornata":'F2', "data":"//2023", "daCaricare" : true};
 matchs['EIRC-GRAND-PRIX-6'] = {"id":"", "lega":"EIRC-GRAND-PRIX", "giornata":'F3', "data":"//2023", "daCaricare" : true};
