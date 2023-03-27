@@ -14,7 +14,7 @@ matchs['EIRC-960-8'] = {"id":"", "lega":"EIRC-960", "giornata":8, "data":"16/04/
 //CIS - Qualificazioni
 matchs['CIS-Q-1'] = {"id":"1463013", "lega":"CIS-Q", "giornata":1, "data":"20/02/2024", "daCaricare" : true};
 matchs['CIS-Q-2'] = {"id":"1470049", "lega":"CIS-Q", "giornata":2, "data":"13/03/2024", "daCaricare" : true};
-matchs['CIS-Q-3'] = {"id":"", "lega":"CIS-Q", "giornata":3, "data":"/0/2024", "daCaricare" : true};
+matchs['CIS-Q-3'] = {"id":"1475841", "lega":"CIS-Q", "giornata":3, "data":"03/04/2024", "daCaricare" : true};
 matchs['CIS-Q-4'] = {"id":"", "lega":"CIS-Q", "giornata":4, "data":"/0/2024", "daCaricare" : true};
 
 //CIS - Finali
