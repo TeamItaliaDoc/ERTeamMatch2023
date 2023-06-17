@@ -67,7 +67,7 @@ matchs['EIRC-1400-2'] = {"id":"1464254", "lega":"EIRC-1400", "giornata":2, "data
 matchs['EIRC-1400-3'] = {"id":"1472707", "lega":"EIRC-1400", "giornata":3, "data":"26/03/2023", "daCaricare" : true};
 matchs['EIRC-1400-4'] = {"id":"1485059", "lega":"EIRC-1400", "giornata":4, "data":"30/04/2023", "daCaricare" : true};
 matchs['EIRC-1400-5'] = {"id":"1494227", "lega":"EIRC-1400", "giornata":5, "data":"28/05/2023", "daCaricare" : true};
-matchs['EIRC-1400-6'] = {"id":"", "lega":"EIRC-1400", "giornata":6, "data":"/0/2023", "daCaricare" : true};
+matchs['EIRC-1400-6'] = {"id":"1503073", "lega":"EIRC-1400", "giornata":6, "data":"25/06/2023", "daCaricare" : true};
 matchs['EIRC-1400-7'] = {"id":"", "lega":"EIRC-1400", "giornata":7, "data":"//2022", "daCaricare" : true};
 matchs['EIRC-1400-8'] = {"id":"", "lega":"EIRC-1400", "giornata":8, "data":"//2022", "daCaricare" : true};
 matchs['EIRC-1400-9'] = {"id":"", "lega":"EIRC-1400", "giornata":9, "data":"//2022", "daCaricare" : true};
@@ -93,7 +93,7 @@ matchs['EIRC-MASTER-3'] = {"id":"1460167", "lega":"EIRC-MASTER", "giornata":3, "
 matchs['EIRC-MASTER-4'] = {"id":"1470829", "lega":"EIRC-MASTER", "giornata":4, "data":"12/03/2023", "daCaricare" : true};
 matchs['EIRC-MASTER-5'] = {"id":"1481995", "lega":"EIRC-MASTER", "giornata":5, "data":"23/04/2023", "daCaricare" : true};
 matchs['EIRC-MASTER-6'] = {"id":"1494103", "lega":"EIRC-MASTER", "giornata":6, "data":"28/05/2023", "daCaricare" : true};
-matchs['EIRC-MASTER-7'] = {"id":"", "lega":"EIRC-MASTER", "giornata":7, "data":"02/07/2023", "daCaricare" : true};
+matchs['EIRC-MASTER-7'] = {"id":"1505271", "lega":"EIRC-MASTER", "giornata":7, "data":"02/07/2023", "daCaricare" : true};
 
 //EIRC-GRAND-PRIX
 matchs['EIRC-GRAND-PRIX-1'] = {"id":"1454321", "lega":"EIRC-GRAND-PRIX", "giornata":'Q1', "data":"22/01/2023", "daCaricare" : true};
