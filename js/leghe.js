@@ -99,7 +99,7 @@ matchs['EIRC-MASTER-7'] = {"id":"1505271", "lega":"EIRC-MASTER", "giornata":7, "
 matchs['EIRC-GRAND-PRIX-1'] = {"id":"1454321", "lega":"EIRC-GRAND-PRIX", "giornata":'Q1', "data":"22/01/2023", "daCaricare" : true};
 matchs['EIRC-GRAND-PRIX-2'] = {"id":"1464855", "lega":"EIRC-GRAND-PRIX", "giornata":'Q2', "data":"26/02/2023", "daCaricare" : true};
 matchs['EIRC-GRAND-PRIX-3'] = {"id":"1472725", "lega":"EIRC-GRAND-PRIX", "giornata":'Q3', "data":"25/03/2023", "daCaricare" : true};
-matchs['EIRC-GRAND-PRIX-4'] = {"id":"", "lega":"EIRC-GRAND-PRIX", "giornata":'F1', "data":"//2023", "daCaricare" : true};
+matchs['EIRC-GRAND-PRIX-4'] = {"id":"1511953", "lega":"EIRC-GRAND-PRIX", "giornata":'F1', "data":"23/07/2023", "daCaricare" : true};
 matchs['EIRC-GRAND-PRIX-5'] = {"id":"", "lega":"EIRC-GRAND-PRIX", "giornata":'F2', "data":"//2023", "daCaricare" : true};
 matchs['EIRC-GRAND-PRIX-6'] = {"id":"", "lega":"EIRC-GRAND-PRIX", "giornata":'F3', "data":"//2023", "daCaricare" : true};
 
