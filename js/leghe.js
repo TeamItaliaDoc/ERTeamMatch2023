@@ -24,21 +24,21 @@ matchs['EIRC-960-1'] = {"id":"1418127", "lega":"EIRC-960", "giornata":1, "data":
 matchs['EIRC-960-2'] = {"id":"1425731", "lega":"EIRC-960", "giornata":2, "data":"16/10/2022", "daCaricare" : true};
 matchs['EIRC-960-3'] = {"id":"1435569", "lega":"EIRC-960", "giornata":3, "data":"20/11/2022", "daCaricare" : true};
 matchs['EIRC-960-4'] = {"id":"1443482", "lega":"EIRC-960", "giornata":4, "data":"18/12/2022", "daCaricare" : true};
-matchs['EIRC-960-5'] = {"id":"1452171", "lega":"EIRC-960", "giornata":5, "data":"15/01/2022", "daCaricare" : true};
-matchs['EIRC-960-6'] = {"id":"0", "lega":"EIRC-960", "giornata":6, "data":"19/02/2022", "daCaricare" : true,
+matchs['EIRC-960-5'] = {"id":"1452171", "lega":"EIRC-960", "giornata":5, "data":"15/01/2023", "daCaricare" : true};
+matchs['EIRC-960-6'] = {"id":"0", "lega":"EIRC-960", "giornata":6, "data":"19/02/2023", "daCaricare" : true,
 "avversarioName":"","risultato":"Vinto forfait", "risultatoStyle" :"color:green;font-weight:bold", "giocatori":"", "score":"", "url" : ""}; 
 
 matchs['EIRC-960-7'] = {"id":"1470637", "lega":"EIRC-960", "giornata":7, "data":"19/03/2022", "daCaricare" : true};
 matchs['EIRC-960-8'] = {"id":"", "lega":"EIRC-960", "giornata":8, "data":"16/04/2022", "daCaricare" : true};
 
 //CIS - Qualificazioni
-matchs['CIS-Q-1'] = {"id":"1463013", "lega":"CIS-Q", "giornata":1, "data":"20/02/2024", "daCaricare" : true};
-matchs['CIS-Q-2'] = {"id":"1470049", "lega":"CIS-Q", "giornata":2, "data":"13/03/2024", "daCaricare" : true};
-matchs['CIS-Q-3'] = {"id":"1475841", "lega":"CIS-Q", "giornata":3, "data":"03/04/2024", "daCaricare" : true};
+matchs['CIS-Q-1'] = {"id":"1463013", "lega":"CIS-Q", "giornata":1, "data":"20/02/2023", "daCaricare" : true};
+matchs['CIS-Q-2'] = {"id":"1470049", "lega":"CIS-Q", "giornata":2, "data":"13/03/2023", "daCaricare" : true};
+matchs['CIS-Q-3'] = {"id":"1475841", "lega":"CIS-Q", "giornata":3, "data":"03/04/2023", "daCaricare" : true};
 matchs['CIS-Q-4'] = {"id":"", "lega":"CIS-Q", "giornata":4, "data":"/0/2024", "daCaricare" : true};
 
 //CIS - Finali
-matchs['CIS-F-1'] = {"id":"", "lega":"CIS-F", "giornata":1, "data":"01/08/2022", "daCaricare" : true};
+matchs['CIS-F-1'] = {"id":"1514653", "lega":"CIS-F", "giornata":1, "data":"31/07/2023", "daCaricare" : true};
 matchs['CIS-F-2'] = {"id":"", "lega":"CIS-F", "giornata":2, "data":"22/08/2022", "daCaricare" : true};
 matchs['CIS-F-3'] = {"id":"", "lega":"CIS-F", "giornata":3, "data":"12/09/2022", "daCaricare" : true};
 matchs['CIS-F-4'] = {"id":"", "lega":"CIS-F", "giornata":4, "data":"//2022", "daCaricare" : true};
@@ -68,7 +68,7 @@ matchs['EIRC-1400-3'] = {"id":"1472707", "lega":"EIRC-1400", "giornata":3, "data
 matchs['EIRC-1400-4'] = {"id":"1485059", "lega":"EIRC-1400", "giornata":4, "data":"30/04/2023", "daCaricare" : true};
 matchs['EIRC-1400-5'] = {"id":"1494227", "lega":"EIRC-1400", "giornata":5, "data":"28/05/2023", "daCaricare" : true};
 matchs['EIRC-1400-6'] = {"id":"1503073", "lega":"EIRC-1400", "giornata":6, "data":"25/06/2023", "daCaricare" : true};
-matchs['EIRC-1400-7'] = {"id":"", "lega":"EIRC-1400", "giornata":7, "data":"//2022", "daCaricare" : true};
+matchs['EIRC-1400-7'] = {"id":"1513891", "lega":"EIRC-1400", "giornata":7, "data":"30/07/2022", "daCaricare" : true};
 matchs['EIRC-1400-8'] = {"id":"", "lega":"EIRC-1400", "giornata":8, "data":"//2022", "daCaricare" : true};
 matchs['EIRC-1400-9'] = {"id":"", "lega":"EIRC-1400", "giornata":9, "data":"//2022", "daCaricare" : true};
 
@@ -114,7 +114,7 @@ matchs['1WL-GEO-6'] = {"id":"", "lega":"1WL-GEO", "giornata":6, "data":"13/11/20
 matchs['1WL-GEO-7'] = {"id":"", "lega":"1WL-GEO", "giornata":7, "data":"11/12/2021", "daCaricare" : true};
 
 //Amichevoli 
-matchs['AMICI-1'] = {"id":"", "lega":"AMICI", "giornata":1, "data":"14/01/2022", "daCaricare" : true};
+matchs['AMICI-1'] = {"id":"1512303", "lega":"AMICI", "giornata":1, "data":"15/08/2023", "daCaricare" : true};
 matchs['AMICI-2'] = {"id":"", "lega":"AMICI", "giornata":1, "data":"//2022", "daCaricare" : true};
 matchs['AMICI-3'] = {"id":"", "lega":"AMICI", "giornata":1, "data":"//2022", "daCaricare" : true};
 matchs['AMICI-4'] = {"id":"", "lega":"AMICI", "giornata":1, "data":"//2022", "daCaricare" : true};
