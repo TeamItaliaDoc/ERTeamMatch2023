@@ -18,6 +18,11 @@ matchs['EIRC-4-13'] = {"id":"1479551", "lega":"EIRC-4", "giornata":'R4a', "data"
 matchs['EIRC-4-14'] = {"id":"1489633", "lega":"EIRC-4", "giornata":'R4b', "data":"14/05/2023", "daCaricare" : true},
 matchs['EIRC-4-15'] = {"id":"1498521", "lega":"EIRC-4", "giornata":'R4c', "data":"11/06/2023", "daCaricare" : true};
 matchs['EIRC-4-16'] = {"id":"1507687", "lega":"EIRC-4", "giornata":'R4d', "data":"09/07/2023", "daCaricare" : true};
+matchs['EIRC-4-17'] = {"id":"1522459", "lega":"EIRC-4", "giornata":'R5a', "data":"27/08/2023", "daCaricare" : true};
+matchs['EIRC-4-18'] = {"id":"", "lega":"EIRC-4", "giornata":'R5b', "data":"//2023", "daCaricare" : true};
+matchs['EIRC-4-19'] = {"id":"", "lega":"EIRC-4", "giornata":'R5c', "data":"//2023", "daCaricare" : true};
+matchs['EIRC-4-20'] = {"id":"", "lega":"EIRC-4", "giornata":'R5d', "data":"//2023", "daCaricare" : true};
+1522459
 
 //EIRC 960
 matchs['EIRC-960-1'] = {"id":"1418127", "lega":"EIRC-960", "giornata":1, "data":"18/09/2022", "daCaricare" : true};
@@ -39,7 +44,7 @@ matchs['CIS-Q-4'] = {"id":"", "lega":"CIS-Q", "giornata":4, "data":"/0/2024", "d
 
 //CIS - Finali
 matchs['CIS-F-1'] = {"id":"1514653", "lega":"CIS-F", "giornata":1, "data":"31/07/2023", "daCaricare" : true};
-matchs['CIS-F-2'] = {"id":"", "lega":"CIS-F", "giornata":2, "data":"22/08/2022", "daCaricare" : true};
+matchs['CIS-F-2'] = {"id":"1521479", "lega":"CIS-F", "giornata":2, "data":"21/08/2022", "daCaricare" : true};
 matchs['CIS-F-3'] = {"id":"", "lega":"CIS-F", "giornata":3, "data":"12/09/2022", "daCaricare" : true};
 matchs['CIS-F-4'] = {"id":"", "lega":"CIS-F", "giornata":4, "data":"//2022", "daCaricare" : true};
 matchs['CIS-F-5'] = {"id":"", "lega":"CIS-F", "giornata":5, "data":"//2022", "daCaricare" : true};
@@ -100,7 +105,7 @@ matchs['EIRC-GRAND-PRIX-1'] = {"id":"1454321", "lega":"EIRC-GRAND-PRIX", "giorna
 matchs['EIRC-GRAND-PRIX-2'] = {"id":"1464855", "lega":"EIRC-GRAND-PRIX", "giornata":'Q2', "data":"26/02/2023", "daCaricare" : true};
 matchs['EIRC-GRAND-PRIX-3'] = {"id":"1472725", "lega":"EIRC-GRAND-PRIX", "giornata":'Q3', "data":"25/03/2023", "daCaricare" : true};
 matchs['EIRC-GRAND-PRIX-4'] = {"id":"1511953", "lega":"EIRC-GRAND-PRIX", "giornata":'F1', "data":"23/07/2023", "daCaricare" : true};
-matchs['EIRC-GRAND-PRIX-5'] = {"id":"", "lega":"EIRC-GRAND-PRIX", "giornata":'F2', "data":"//2023", "daCaricare" : true};
+matchs['EIRC-GRAND-PRIX-5'] = {"id":"1522457", "lega":"EIRC-GRAND-PRIX", "giornata":'F2', "data":"27/08/2023", "daCaricare" : true};
 matchs['EIRC-GRAND-PRIX-6'] = {"id":"", "lega":"EIRC-GRAND-PRIX", "giornata":'F3', "data":"//2023", "daCaricare" : true};
 
 //1WL - GEO
