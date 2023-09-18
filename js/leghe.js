@@ -1,3 +1,8 @@
+//Non ci siamo iscritti al primo turno
+//-- 960 23/24 - https://www.chess.com/clubs/forum/view/eirc-chess960-2023-24?page=2#comment-94718819
+//-- 960 23/24 - https://www.chess.com/clubs/forum/view/eirc-chess960-2023-24?page=2#comment-94718819
+//-- 960 23/24 - https://www.chess.com/clubs/forum/view/eirc-chess960-2023-24?page=2#comment-94718819
+
 //EIRC-4 Four Musketeers
 matchs['EIRC-4-1'] = {"id":"1359677", "lega":"EIRC-4", "giornata":'R1a', "data":"03/04/2022", "daCaricare" : true};
 matchs['EIRC-4-2'] = {"id":"0", "lega":"EIRC-4", "giornata":'R1b', "data":"01/05/2022", "daCaricare" : false,
@@ -19,7 +24,7 @@ matchs['EIRC-4-14'] = {"id":"1489633", "lega":"EIRC-4", "giornata":'R4b', "data"
 matchs['EIRC-4-15'] = {"id":"1498521", "lega":"EIRC-4", "giornata":'R4c', "data":"11/06/2023", "daCaricare" : true};
 matchs['EIRC-4-16'] = {"id":"1507687", "lega":"EIRC-4", "giornata":'R4d', "data":"09/07/2023", "daCaricare" : true};
 matchs['EIRC-4-17'] = {"id":"1522459", "lega":"EIRC-4", "giornata":'R5a', "data":"27/08/2023", "daCaricare" : true};
-matchs['EIRC-4-18'] = {"id":"", "lega":"EIRC-4", "giornata":'R5b', "data":"//2023", "daCaricare" : true};
+matchs['EIRC-4-18'] = {"id":"1529803", "lega":"EIRC-4", "giornata":'R5b', "data":"17/09/2023", "daCaricare" : true};
 matchs['EIRC-4-19'] = {"id":"", "lega":"EIRC-4", "giornata":'R5c', "data":"//2023", "daCaricare" : true};
 matchs['EIRC-4-20'] = {"id":"", "lega":"EIRC-4", "giornata":'R5d', "data":"//2023", "daCaricare" : true};
 1522459
@@ -98,15 +103,16 @@ matchs['EIRC-MASTER-3'] = {"id":"1460167", "lega":"EIRC-MASTER", "giornata":3, "
 matchs['EIRC-MASTER-4'] = {"id":"1470829", "lega":"EIRC-MASTER", "giornata":4, "data":"12/03/2023", "daCaricare" : true};
 matchs['EIRC-MASTER-5'] = {"id":"1481995", "lega":"EIRC-MASTER", "giornata":5, "data":"23/04/2023", "daCaricare" : true};
 matchs['EIRC-MASTER-6'] = {"id":"1494103", "lega":"EIRC-MASTER", "giornata":6, "data":"28/05/2023", "daCaricare" : true};
-matchs['EIRC-MASTER-7'] = {"id":"1505271", "lega":"EIRC-MASTER", "giornata":7, "data":"02/07/2023", "daCaricare" : true};
+matchs['EIRC-MASTER-7'] = {"id":"0", "lega":"EIRC-MASTER", "giornata":7, "data":"02/07/2023", "daCaricare" : true,
+"avversarioName":"Springer Niedersachsen","risultato":"Bye", "risultatoStyle" :"color:green;font-weight:bold", "giocatori":"", "score":"", "url" : ""};
 
 //EIRC-GRAND-PRIX
 matchs['EIRC-GRAND-PRIX-1'] = {"id":"1454321", "lega":"EIRC-GRAND-PRIX", "giornata":'Q1', "data":"22/01/2023", "daCaricare" : true};
 matchs['EIRC-GRAND-PRIX-2'] = {"id":"1464855", "lega":"EIRC-GRAND-PRIX", "giornata":'Q2', "data":"26/02/2023", "daCaricare" : true};
 matchs['EIRC-GRAND-PRIX-3'] = {"id":"1472725", "lega":"EIRC-GRAND-PRIX", "giornata":'Q3', "data":"25/03/2023", "daCaricare" : true};
-matchs['EIRC-GRAND-PRIX-4'] = {"id":"1511953", "lega":"EIRC-GRAND-PRIX", "giornata":'F1', "data":"23/07/2023", "daCaricare" : true};
-matchs['EIRC-GRAND-PRIX-5'] = {"id":"1522457", "lega":"EIRC-GRAND-PRIX", "giornata":'F2', "data":"27/08/2023", "daCaricare" : true};
-matchs['EIRC-GRAND-PRIX-6'] = {"id":"", "lega":"EIRC-GRAND-PRIX", "giornata":'F3', "data":"//2023", "daCaricare" : true};
+matchs['EIRC-GRAND-PRIX-4'] = {"id":"1511953", "lega":"EIRC-GRAND-PRIX", "giornata":'Finale 1', "data":"23/07/2023", "daCaricare" : true};
+matchs['EIRC-GRAND-PRIX-5'] = {"id":"1522457", "lega":"EIRC-GRAND-PRIX", "giornata":'Finale 2', "data":"27/08/2023", "daCaricare" : true};
+matchs['EIRC-GRAND-PRIX-6'] = {"id":"1532447", "lega":"EIRC-GRAND-PRIX", "giornata":'Finale 3', "data":"15/09/2023", "daCaricare" : true};
 
 //1WL - GEO
 matchs['1WL-GEO-1'] = {"id":"", "lega":"1WL-GEO", "giornata":1, "data":"10/07/2021", "daCaricare" : true,
@@ -129,3 +135,5 @@ matchs['AMICI-7'] = {"id":"", "lega":"AMICI", "giornata":1, "data":"//2022", "da
 matchs['AMICI-8'] = {"id":"", "lega":"AMICI", "giornata":1, "data":"//2022", "daCaricare" : true};
 matchs['AMICI-9'] = {"id":"", "lega":"AMICI", "giornata":1, "data":"//2022", "daCaricare" : true};
 matchs['AMICI-10'] = {"id":"", "lega":"AMICI", "giornata":1, "data":"//2022", "daCaricare" : true};
+
+
