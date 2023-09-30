@@ -2,6 +2,8 @@
 //-- 960 23/24 - https://www.chess.com/clubs/forum/view/eirc-chess960-2023-24?page=2#comment-94718819
 //-- 960 23/24 - https://www.chess.com/clubs/forum/view/eirc-chess960-2023-24?page=2#comment-94718819
 //-- 960 23/24 - https://www.chess.com/clubs/forum/view/eirc-chess960-2023-24?page=2#comment-94718819
+//Secondo turno
+// https://www.chess.com/club/matches/munster/1536229
 
 //EIRC-4 Four Musketeers
 matchs['EIRC-4-1'] = {"id":"1359677", "lega":"EIRC-4", "giornata":'R1a', "data":"03/04/2022", "daCaricare" : true};
@@ -51,7 +53,7 @@ matchs['CIS-Q-4'] = {"id":"", "lega":"CIS-Q", "giornata":4, "data":"/0/2024", "d
 matchs['CIS-F-1'] = {"id":"1514653", "lega":"CIS-F", "giornata":1, "data":"31/07/2023", "daCaricare" : true};
 matchs['CIS-F-2'] = {"id":"1521479", "lega":"CIS-F", "giornata":2, "data":"21/08/2023", "daCaricare" : true};
 matchs['CIS-F-3'] = {"id":"1527665", "lega":"CIS-F", "giornata":3, "data":"11/09/2023", "daCaricare" : true};
-matchs['CIS-F-4'] = {"id":"", "lega":"CIS-F", "giornata":4, "data":"//2023", "daCaricare" : true};
+matchs['CIS-F-4'] = {"id":"1533357", "lega":"CIS-F", "giornata":4, "data":"02/10/2023", "daCaricare" : true};
 matchs['CIS-F-5'] = {"id":"", "lega":"CIS-F", "giornata":5, "data":"//2023", "daCaricare" : true};
 
 //EU
