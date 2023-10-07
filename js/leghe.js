@@ -27,7 +27,7 @@ matchs['EIRC-4-15'] = {"id":"1498521", "lega":"EIRC-4", "giornata":'R4c', "data"
 matchs['EIRC-4-16'] = {"id":"1507687", "lega":"EIRC-4", "giornata":'R4d', "data":"09/07/2023", "daCaricare" : true};
 matchs['EIRC-4-17'] = {"id":"1522459", "lega":"EIRC-4", "giornata":'R5a', "data":"27/08/2023", "daCaricare" : true};
 matchs['EIRC-4-18'] = {"id":"1529803", "lega":"EIRC-4", "giornata":'R5b', "data":"17/09/2023", "daCaricare" : true};
-matchs['EIRC-4-19'] = {"id":"", "lega":"EIRC-4", "giornata":'R5c', "data":"//2023", "daCaricare" : true};
+matchs['EIRC-4-19'] = {"id":"1536507", "lega":"EIRC-4", "giornata":'R5c', "data":"15/10/2023", "daCaricare" : true};
 matchs['EIRC-4-20'] = {"id":"", "lega":"EIRC-4", "giornata":'R5d', "data":"//2023", "daCaricare" : true};
 1522459
 
