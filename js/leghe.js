@@ -4,6 +4,7 @@
 //-- 960 23/24 - https://www.chess.com/clubs/forum/view/eirc-chess960-2023-24?page=2#comment-94718819
 //Secondo turno
 // https://www.chess.com/club/matches/munster/1536229
+//U1700 https://www.chess.com/club/matches/team-presovsky-kraj/1541603
 
 //EIRC-4 Four Musketeers
 matchs['EIRC-4-1'] = {"id":"1359677", "lega":"EIRC-4", "giornata":'R1a', "data":"03/04/2022", "daCaricare" : true};
@@ -28,8 +29,8 @@ matchs['EIRC-4-16'] = {"id":"1507687", "lega":"EIRC-4", "giornata":'R4d', "data"
 matchs['EIRC-4-17'] = {"id":"1522459", "lega":"EIRC-4", "giornata":'R5a', "data":"27/08/2023", "daCaricare" : true};
 matchs['EIRC-4-18'] = {"id":"1529803", "lega":"EIRC-4", "giornata":'R5b', "data":"17/09/2023", "daCaricare" : true};
 matchs['EIRC-4-19'] = {"id":"1536507", "lega":"EIRC-4", "giornata":'R5c', "data":"15/10/2023", "daCaricare" : true};
-matchs['EIRC-4-20'] = {"id":"", "lega":"EIRC-4", "giornata":'R5d', "data":"//2023", "daCaricare" : true};
-1522459
+matchs['EIRC-4-20'] = {"id":"1543693", "lega":"EIRC-4", "giornata":'R5d', "data":"12/11/2023", "daCaricare" : true};
+
 
 //EIRC 960
 matchs['EIRC-960-1'] = {"id":"1418127", "lega":"EIRC-960", "giornata":1, "data":"18/09/2022", "daCaricare" : true};
@@ -55,6 +56,7 @@ matchs['CIS-F-2'] = {"id":"1521479", "lega":"CIS-F", "giornata":2, "data":"21/08
 matchs['CIS-F-3'] = {"id":"1527665", "lega":"CIS-F", "giornata":3, "data":"11/09/2023", "daCaricare" : true};
 matchs['CIS-F-4'] = {"id":"1533357", "lega":"CIS-F", "giornata":4, "data":"02/10/2023", "daCaricare" : true};
 matchs['CIS-F-5'] = {"id":"1539155", "lega":"CIS-F", "giornata":5, "data":"23/10/2023", "daCaricare" : true};
+matchs['CIS-F-6'] = {"id":"1544173", "lega":"CIS-F", "giornata":6, "data":"13/11/2023", "daCaricare" : true};
 
 //EU
 matchs['EU-1'] = {"id":"", "lega":"EU", "giornata":1, "data":"//2022", "daCaricare" : true};
