@@ -2,9 +2,13 @@
 //-- 960 23/24 - https://www.chess.com/clubs/forum/view/eirc-chess960-2023-24?page=2#comment-94718819
 //-- 960 23/24 - https://www.chess.com/clubs/forum/view/eirc-chess960-2023-24?page=2#comment-94718819
 //-- 960 23/24 - https://www.chess.com/clubs/forum/view/eirc-chess960-2023-24?page=2#comment-94718819
+//-- 960 23/24 - 
 //Secondo turno
 // https://www.chess.com/club/matches/munster/1536229
+// https://www.chess.com/club/matches/1545173
 //U1700 https://www.chess.com/club/matches/team-presovsky-kraj/1541603
+//https://www.chess.com/club/matches/1545175
+//https://www.chess.com/club/matches/1547207
 
 //EIRC-4 Four Musketeers
 matchs['EIRC-4-1'] = {"id":"1359677", "lega":"EIRC-4", "giornata":'R1a', "data":"03/04/2022", "daCaricare" : true};
@@ -72,8 +76,8 @@ matchs['EU-9'] = {"id":"", "lega":"EU", "giornata":9, "data":"//2022", "daCarica
 //EIRC-KN
 matchs['EIRC-KN-1'] = {"id":"1433219", "lega":"EIRC-KN", "giornata":"Ottavi", "data":"13/11/2022", "daCaricare" : true};
 matchs['EIRC-KN-2'] = {"id":"1493579", "lega":"EIRC-KN", "giornata":"Quarti", "data":"24/05/2023", "daCaricare" : true};
-matchs['EIRC-KN-3'] = {"id":"", "lega":"EIRC-KN", "giornata":"semifinale", "data":"24//2022", "daCaricare" : true};  
-matchs['EIRC-KN-5'] = {"id":"", "lega":"EIRC-KN", "giornata":"finale", "data":"//2022", "daCaricare" : true};
+matchs['EIRC-KN-3'] = {"id":"1551933", "lega":"EIRC-KN", "giornata":"semifinale", "data":"10/12/2023", "daCaricare" : true};  
+matchs['EIRC-KN-4'] = {"id":"", "lega":"EIRC-KN", "giornata":"finale", "data":"//2022", "daCaricare" : true};
 
 //EIRC-1400
 matchs['EIRC-1400-1'] = {"id":"1456199", "lega":"EIRC-1400", "giornata":1, "data":"29/01/2023", "daCaricare" : true};
