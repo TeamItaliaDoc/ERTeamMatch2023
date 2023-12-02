@@ -2,11 +2,12 @@
 //-- 960 23/24 - https://www.chess.com/clubs/forum/view/eirc-chess960-2023-24?page=2#comment-94718819
 //-- 960 23/24 - https://www.chess.com/clubs/forum/view/eirc-chess960-2023-24?page=2#comment-94718819
 //-- 960 23/24 - https://www.chess.com/clubs/forum/view/eirc-chess960-2023-24?page=2#comment-94718819
-//-- 960 23/24 - 
+//-- 960 23/24 - https://www.chess.com/club/matches/team-buckinghamshire/1554975
 //Secondo turno
 // https://www.chess.com/club/matches/munster/1536229
 // https://www.chess.com/club/matches/1545173
 //U1700 https://www.chess.com/club/matches/team-presovsky-kraj/1541603
+//https://www.chess.com/club/matches/1554973
 //https://www.chess.com/club/matches/1545175
 //https://www.chess.com/club/matches/1547207
 
