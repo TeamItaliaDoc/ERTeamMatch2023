@@ -10,6 +10,7 @@
 //https://www.chess.com/club/matches/1554973
 //https://www.chess.com/club/matches/1545175
 //https://www.chess.com/club/matches/1547207
+//https://www.chess.com/club/matches/1557385
 
 //EIRC-4 Four Musketeers
 matchs['EIRC-4-1'] = {"id":"1359677", "lega":"EIRC-4", "giornata":'R1a', "data":"03/04/2022", "daCaricare" : true};
