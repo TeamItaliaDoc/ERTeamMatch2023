@@ -79,7 +79,7 @@ matchs['EU-9'] = {"id":"", "lega":"EU", "giornata":9, "data":"//2022", "daCarica
 matchs['EIRC-KN-1'] = {"id":"1433219", "lega":"EIRC-KN", "giornata":"Ottavi", "data":"13/11/2022", "daCaricare" : true};
 matchs['EIRC-KN-2'] = {"id":"1493579", "lega":"EIRC-KN", "giornata":"Quarti", "data":"24/05/2023", "daCaricare" : true};
 matchs['EIRC-KN-3'] = {"id":"1551933", "lega":"EIRC-KN", "giornata":"semifinale", "data":"10/12/2023", "daCaricare" : true};  
-matchs['EIRC-KN-4'] = {"id":"", "lega":"EIRC-KN", "giornata":"finale", "data":"//2022", "daCaricare" : true};
+matchs['EIRC-KN-4'] = {"id":"1636567", "lega":"EIRC-KN", "giornata":"finale", "data":"16/06/2024", "daCaricare" : true};
 
 //EIRC-1400
 matchs['EIRC-1400-1'] = {"id":"1456199", "lega":"EIRC-1400", "giornata":1, "data":"29/01/2023", "daCaricare" : true};
